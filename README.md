@@ -1,9 +1,9 @@
-# Welcome to my Repo
+# MeetXcode
 
-Here I'm just uploading the stuff I make by following the instructions on [Develop in Swift (Apple)](https://developer.apple.com/tutorials/develop-in-swift)
+This project is from [Develop in Swift | Hello, SwiftUI](https://developer.apple.com/tutorials/develop-in-swift/hello-swiftui)
 
-They are just the base projects, nothing overly special but I will eventually add projects from the "Expand your knowledge" sections where I have attempted it myself.
+In this project, I learn't about:
 
-I will try to show them on different branches but I'll see how I go.
+- `struct`, `var`, `let`, `VStack`, `HStack` & the general structure of Swift code
 
 ###### *This is not affiliated with Apple or Apple Inc. (obviously). I'm uploading these to show my progress while I'm learning Swift and Swift UI*
